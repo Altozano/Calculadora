@@ -276,7 +276,7 @@ otra operacion */
 				system("cls");
 				break;
 			case 22:
-				printf("Porcentaje (%)\n\n");
+				printf("Porcentaje (%%)\n\n");
 				printf("Escriba la cantidad a calcular el porcentaje:");
 				scanf("%f",&w);
 				printf("Escriba el porcentaje a calcular:");
